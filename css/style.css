@@ -14,7 +14,6 @@ body, html {
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
-  display: inline-block;
 }
 
 h4 {
@@ -53,16 +52,19 @@ img:hover {
 }
 
 .small {
+  display: inline-block;
   width: 15%;
   height: 15%;
 }
 
 .medium {
+  display: inline-block;
   width: 25%;
   height: 25%;
 }
 
 .large  {
+  display: inline-block;
   width: 50%;
   height: 50%;
 }
