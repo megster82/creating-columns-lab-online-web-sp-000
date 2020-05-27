@@ -51,10 +51,21 @@ img:hover {
   width: 32%;
 }
 
-.tile small {
+.small {
+  width: 15%;
+  height: 15%;
+}
+
+.medium {
   width: 25%;
   height: 25%;
 }
+
+.large  {
+  width: 50%;
+  height: 50%;
+}
+
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 /* create your tile classes! we recommend .small .med .large */
