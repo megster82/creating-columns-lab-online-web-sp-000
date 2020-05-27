@@ -52,7 +52,7 @@ img:hover {
 }
 
 .small {
-  display: inline-block;
+  display: grid;
   width: 15%;
   height: 15%;
 }
