@@ -51,8 +51,9 @@ img:hover {
   width: 32%;
 }
 
-.title  {
-  
+.tile small {
+  width: 25%;
+  height: 25%;
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
