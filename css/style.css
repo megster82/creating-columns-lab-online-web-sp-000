@@ -48,8 +48,8 @@ img:hover {
 
 .column {
   display: inline-block;
-  vertical-align: top;
   width: 60%;
+  padding: 10px;
 }
 
 .small {
