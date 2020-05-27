@@ -65,8 +65,8 @@ img:hover {
 
 .large  {
   display: inline-block;
-  width: 50%;
-  height: 50%;
+  width: 80%;
+  height: 80%;
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
